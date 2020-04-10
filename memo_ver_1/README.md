@@ -1,7 +1,6 @@
-메모장 ver 1.0
 ===========
 
-## MEMO
+## MEMO ver 1.0
 
 ### version 1.0 
 
