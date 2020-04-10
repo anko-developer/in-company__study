@@ -1,4 +1,4 @@
-## MEMO ver 1.0
+## MEMO
 
 ### version 1.0 
 
